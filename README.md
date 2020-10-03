@@ -1,2 +1,4 @@
 # githubtutorial
-![IMG_20190529_154957](https://user-images.githubusercontent.com/54366663/87302834-b8a24b00-c52f-11ea-9628-ae23bf4eef46.jpg)
+
+<img src="https://user-images.githubusercontent.com/54366663/94993413-7b89aa00-05ae-11eb-8fdb-a12aa1e65885.jpeg" width="48">
+<img src="https://user-images.githubusercontent.com/54366663/94993413-7b89aa00-05ae-11eb-8fdb-a12aa1e65885.jpeg" width="48">
